@@ -31,3 +31,8 @@ Utilizando o conjunto de dados de treino, foi realizado a aprendizado para tês 
 
 Após o treinamento dos dados utilizando cada um dos métodos foi realizada a classifcação pelo conjunto de testes e verificada a acurácia para cada um dos três modelos.
 
+### Reconhecimentos
+O database original foi obtido pelo repositório UCI ML: Lichman, M. (2013). UCI Machine
+Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of
+Information and Computer Science.
+
