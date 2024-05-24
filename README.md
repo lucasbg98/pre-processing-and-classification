@@ -1,5 +1,5 @@
 # pre-processing-and-classification
-Repositório referente a um modelo responsavel por usar atributos biomecânicos para classificar os pacientes de acordo com os rótulos presentes em cada dataset.
+Repositório referente a um modelo responsável por usar atributos biomecânicos para classificar os pacientes de acordo com os rótulos presentes em cada dataset.
 
 ### Contextualização dos dados:
 Cada paciente é representado no conjunto de dados por seis atributos biomecânicos derivados da
